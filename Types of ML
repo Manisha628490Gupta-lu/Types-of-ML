@@ -1,0 +1,25 @@
+TYPES OF MACHINE LEARNING
+There are several types of machine learning, each with special characteristics and applications. Some of the main types of machine learning algorithms are as follows:
+
+Supervised Machine Learning
+Unsupervised Machine Learning
+Semi-Supervised Machine Learning
+Reinforcement Learning
+
+
+1 SUPERVISED LEARNING:
+learning is the machine learning task of learning a function that maps an input to an output based on example input-output pairs. The given data is labeled. Both classification and regression problems are supervised learning problems.
+Example – Consider the following data regarding patients entering a clinic . The data consists of the gender and age of the patients and each patient is labeled as “healthy” or “sick”.
+
+
+2 UNSUPERVISED LEARNING
+Unsupervised learning is a type of machine learning algorithm used to draw inferences from datasets consisting of input data without labeled responses. In unsupervised learning algorithms, classification or categorization is not included in the observations. Example: Consider the following data regarding patients entering a clinic. The data consists of the gender and age of the patients. 
+
+
+3 SEMI-SUPERVISED MACHINE LEARNING
+Reinforcement learning is the problem of getting an agent to act in the world so as to maximize its rewards.
+A learner is not told what actions to take as in most forms of machine learning but instead must discover which actions yield the most reward by trying them. For example — Consider teaching a dog a new trick: we cannot tell him what to do, what not to do, but we can reward/punish it if it does the right/wrong thing.
+
+
+4 REINFORCEMENT LEARNING
+Where an incomplete training signal is given: a training set with some (often many) of the target outputs missing. There is a special case of this principle known as Transduction where the entire set of problem instances is known at learning time, except that part of the targets are missing. Semi-supervised learning is an approach to machine learning that combines small labeled data with a large amount of unlabeled data during training. Semi-supervised learning falls between unsupervised learning and supervised learning. 
